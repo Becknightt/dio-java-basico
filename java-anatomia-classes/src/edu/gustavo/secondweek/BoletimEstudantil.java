@@ -1,3 +1,5 @@
+package edu.gustavo.secondweek;
+
 public class BoletimEstudantil { // essa é a classe.
 
   // segunda classe criada em Java e essa classe tem um método executável chamado

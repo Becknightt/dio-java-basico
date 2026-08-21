@@ -1,3 +1,5 @@
+package edu.gustavo.firstweek;
+
 public class MinhaClasse {
   // primeira classe criada em Java e essa classe tem um método executável chamado
   // main, que é o ponto de entrada do programa.
